@@ -4,3 +4,5 @@ Potatoe
 Ham
 Bread
 Roll
+Candy
+Chocolate
