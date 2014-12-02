@@ -1,11 +1,6 @@
 Shopping list
 Tomatoe
-Potatoe
-Ham
-Bread
-Roll
-Candy
-Chocolate
+
 
 //Feature 1
 Credit Card 8822 3211 3213 3213
